@@ -172,7 +172,7 @@ export default {
   name: 'Home',
   methods: {
     booked: function(){
-      alert('Added to cart!');
+      alert('Added to cart!')
     }
   },
   data() {
