@@ -193,6 +193,9 @@ export default {
   display: flex;
   justify-content: space-between;
 }
+.navbar-light .navbar-nav .nav-link{
+  color: #ffffff;
+}
 h4{
   text-align: center;
   margin-top: 5%;
